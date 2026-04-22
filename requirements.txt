@@ -1,0 +1,9 @@
+chromadb
+python-dotenv
+openai
+pydantic
+pdfplumber
+typing_extensions
+tavily-python
+ipykernel
+pydantic
